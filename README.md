@@ -11,6 +11,44 @@ Full Stack MERN Developer | Graduated
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Creator+of+Box+Build"/>
 </p>
+---
+
+## 👨‍💻 About Me
+
+javascript
+const hashir = {
+    name: "Hashir Latif",
+
+    role: "Full Stack MERN Developer",
+
+    education: "BS Computer Science",
+
+    location: "Pakistan",
+
+    currentProject: "🏗️ Box Build",
+
+    currentlyLearning: [
+        "System Design",
+        "Docker",
+        "Cloud Deployment"
+    ],
+
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Socket.IO"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Learning New Technologies",
+        "Building Full Stack Projects"
+    ],
+
+    motto: "Code • Learn • Build • Repeat "
+};
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashirlatif4-rgb&style=for-the-badge&color=blue"/>
