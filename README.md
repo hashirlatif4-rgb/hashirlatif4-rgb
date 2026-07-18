@@ -12,45 +12,30 @@ Full Stack MERN Developer | Graduated
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Creator+of+Box+Build"/>
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
 const hashir = {
-    name: "Hashir Latif",
-
-    role: "Full Stack MERN Developer",
-
-    education: "BS Computer Science ",
-
-    location: "Pakistan",
-
-    currentProject: "🏗️ Box Build",
-
-    currentlyLearning: [
-        "System Design",
-        "Docker",
-        "Cloud Deployment"
-    ],
-
-    askMeAbout: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Socket.IO"
-    ],
-
-    hobbies: [
-        "Coding",
-        "Learning New Technologies",
-        "Building Full Stack Projects"
-    ],
-
-    motto: "Code • Learn • Build • Repeat 🚀"
+  role: "Full Stack MERN Developer",
+  education: "BS Computer Science",
+  location: "Pakistan",
+  currentProject: "Box Build",
+  learning: ["Docker", "Cloud", "System Design"],
+  tech: ["React", "Node.js", "Express", "MongoDB"]
 };
-```
 ---
 
 ## 🛠️ Tech Stack
@@ -66,14 +51,42 @@ const hashir = {
 </p>
 
 ---
+## 📚 Currently Learning
+
+- ☁️ Cloud Deployment
+- 🐳 Docker
+- ⚡ System Design
+- 🔥 Advanced React
+
+# 🚀 Featured Project
+
+## 🏗️ Box Build
+
+A full-stack MERN web application that connects clients with construction professionals. Users can post projects, manage bids, and collaborate efficiently through a modern and responsive interface.
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 📦 Project Management
+- 💬 Real-time Communication
+- 📱 Responsive Design
+- 🛡️ Secure REST API
+
+### 🛠️ Tech Stack
+
+React • Node.js • Express.js • MongoDB • JWT • Socket.IO
+
+🔗 Repository:
+https://github.com/hashirlatif4-rgb/Box_Build
+
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-ten-mu-14.vercel.app/api?username=hashirlatif4-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-ten-mu-14.vercel.app/api?username=hashirlatif4-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-ten-mu-14.vercel.app/api/top-langs/?username=hashirlatif4-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-ten-mu-14.vercel.app/api/top-langs/?username=hashirlatif4-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -83,7 +96,7 @@ const hashir = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=hashirlatif4-rgb&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=hashirlatif4-rgb&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -93,8 +106,7 @@ const hashir = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hashirlatif4-rgb&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=hashirlatif4-rgb&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -113,17 +125,23 @@ const hashir = {
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/hashir-latif-a86976398)">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/hashirlatif4-rgb">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hashir-latif-a86976398">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:Hashirlatif4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://github.com/hashirlatif4-rgb">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+</p>
+
+<p align="center">
+
+GitHub • LinkedIn • Gmail
 
 </p>
 
@@ -131,9 +149,11 @@ const hashir = {
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ If you like my work, consider giving my repositories a star.
 
-If you like my projects, don't forget to leave a ⭐ on my repositories.
+💼 Open to Internship & MERN Stack Opportunities
+
+🚀 Let's Build Something Amazing Together!
 
 </p>
 
