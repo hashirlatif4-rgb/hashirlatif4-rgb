@@ -28,16 +28,48 @@ Full Stack MERN Developer | Graduated
 
 ## 👨‍💻 About Me
 
+```javascript
 const hashir = {
+  name: "Hashir Latif",
   role: "Full Stack MERN Developer",
-  education: "BS Computer Science",
-  location: "Pakistan",
-  currentProject: "Box Build",
-  learning: ["Docker", "Cloud", "System Design"],
-  tech: ["React", "Node.js", "Express", "MongoDB"]
-};
----
+  education: "BS Computer Science Graduate",
+  location: "Pakistan 🇵🇰",
 
+  currentFocus: "Building scalable MERN applications",
+
+  currentProject: "🏗️ Box Build",
+
+  currentlyLearning: [
+    "System Design",
+    "Docker",
+    "Cloud Deployment (AWS)"
+  ],
+
+  techStack: {
+    frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Vite"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"]
+  },
+
+  interests: [
+    "Full Stack Development",
+    "REST APIs",
+    "Responsive UI/UX",
+    "Problem Solving"
+  ],
+
+  openTo: [
+    "Internships",
+    "Freelance Projects",
+    "Junior MERN Developer Roles"
+  ],
+
+  motto: "Code • Learn • Build • Improve 🚀"
+};
+```
+
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
