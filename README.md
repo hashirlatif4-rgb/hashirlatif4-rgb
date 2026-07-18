@@ -22,7 +22,7 @@ const hashir = {
 
     role: "Full Stack MERN Developer",
 
-    education: "BS Computer Science (Final Year)",
+    education: "BS Computer Science ",
 
     location: "Pakistan",
 
