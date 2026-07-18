@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hashir Latif</h1>
 
 <h3 align="center">
-Full Stack MERN Developer | Final Year Project Developer
+Full Stack MERN Developer | Graduated
 </h3>
 
 <p align="center">
