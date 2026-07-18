@@ -11,17 +11,18 @@ Full Stack MERN Developer | Graduated
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Creator+of+Box+Build"/>
 </p>
+
 ---
 
 ## 👨‍💻 About Me
 
-javascript
+```javascript
 const hashir = {
     name: "Hashir Latif",
 
     role: "Full Stack MERN Developer",
 
-    education: "BS Computer Science",
+    education: "BS Computer Science (Final Year)",
 
     location: "Pakistan",
 
@@ -47,9 +48,95 @@ const hashir = {
         "Building Full Stack Projects"
     ],
 
-    motto: "Code • Learn • Build • Repeat "
+    motto: "Code • Learn • Build • Repeat 🚀"
 };
+```
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,git,github,vscode,postman,npm&perline=7" />
+
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hashirlatif4-rgb&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashirlatif4-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirlatif4-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hashirlatif4-rgb&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hashirlatif4-rgb&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirlatif4-rgb&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="(https://www.linkedin.com/in/hashir-latif-a86976398)">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:Hashirlatif4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/hashirlatif4-rgb">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my projects, don't forget to leave a ⭐ on my repositories.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=120&section=footer"/>
 </p>
