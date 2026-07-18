@@ -134,14 +134,6 @@ https://github.com/hashirlatif4-rgb/Box_Build
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirlatif4-rgb&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
